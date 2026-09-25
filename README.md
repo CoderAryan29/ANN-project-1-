@@ -42,7 +42,7 @@ The complete workflow covers data preprocessing, feature encoding, scaling, ANN 
 
 ## 🔄 Project Workflow
 
-```text
+```
 Raw Dataset
      ↓
 Data Preprocessing
@@ -112,7 +112,7 @@ The application then:
 
 Example:
 
-```text
+```
 Churn Probability: 0.73
 
 The customer is likely to churn.
@@ -137,7 +137,7 @@ The application provides an immediate churn prediction after the user submits th
 
 ## 📁 Project Structure
 
-```text
+```
 ANN-Customer-Churn/
 │
 ├── app.py
