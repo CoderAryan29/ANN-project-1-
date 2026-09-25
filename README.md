@@ -6,7 +6,7 @@ An end-to-end **Artificial Neural Network (ANN)** project that predicts whether 
 
 The trained model is integrated into an interactive **Streamlit web application** and deployed online for real-time predictions.
 
-## 🚀 Live Demo
+## 🚀 Live Demo  https://ann-churn-pred1.streamlit.app/
 
 **Streamlit App:** https://ann-churn-pred1.streamlit.app/
 
