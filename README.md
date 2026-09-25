@@ -1,4 +1,6 @@
 # ANN Customer Churn Prediction
+Customer Churn Prediction using ANN
+TensorFlow • Keras • Streamlit
 
 An end-to-end **Artificial Neural Network (ANN)** project that predicts whether a bank customer is likely to churn based on customer and account-related features.
 
@@ -6,7 +8,7 @@ The trained model is integrated into an interactive **Streamlit web application*
 
 ## 🚀 Live Demo
 
-**Streamlit App:** 
+**Streamlit App:** https://ann-churn-pred1.streamlit.app/
 
 ## 📌 Project Overview
 
